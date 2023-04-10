@@ -9,6 +9,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+<!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on consistently writing to take note of my progress in daily productivity because I struggle with procrastination
