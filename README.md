@@ -24,3 +24,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The clitoris has twice as many nerve endings as the penis
 
 -->
+
+
+💻 Tech Stack
+Here are a few technologies I've been working with recently:
+
+[Technology 1]
+[Technology 2]
+[Technology 3]
+[Technology 4]
