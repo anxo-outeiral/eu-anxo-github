@@ -10,6 +10,13 @@
 - ⚡ Fun fact: ...
 
 
+- Languages: Python, TypeScript, 
+- Frameworks: NextJS, NodeJS
+- Teach Stack & Tools: GNU/Linux, Git, Docker, Kubernetes, Terraform, CI/CD
+- Development Practices: Agile, Scrum, Kanban, Gitflow, TDD, Clean Code, Solic, DDD,
+- Collaborative tools: Github, Slack, Jira Confluence
+- Learnin at this moment: NodeJS, Typescript, 
+
 <!--
 
 Here are some ideas to get you started:
